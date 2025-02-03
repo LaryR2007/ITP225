@@ -1,4 +1,4 @@
-```markdown
+
 # **Django Templates & Views - Key Notes**
 
 ## **1. Views & Templates Overview**
@@ -21,7 +21,7 @@
 - **Curly Brace with Percent `{% %}`:** Add logic like conditionals and loops (e.g., `if`, `else`, `for`).  
 
 ### Example:
-```django
+```markdown
 {% if guess < 42 %}
   Too Low
 {% elif guess > 42 %}
